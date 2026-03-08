@@ -1,0 +1,19 @@
+# theWord-Modules
+
+theWord-Modules
+Modules for theWord software
+
+Naming Convention
+{Type}_{Language}_{Code}_{Version}
+
+Publishing
+Read how to publish modules.
+
+Modules
+Bibles
+
+Commentaries
+
+Dictionaries
+
+Books
