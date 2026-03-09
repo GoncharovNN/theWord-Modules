@@ -1,6 +1,5 @@
 # theWord-Modules
 
-theWord-Modules
 Modules for theWord software
 
 ## Naming Convention
