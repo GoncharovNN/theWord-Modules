@@ -3,17 +3,20 @@
 theWord-Modules
 Modules for theWord software
 
-Naming Convention
-{Type}_{Language}_{Code}_{Version}
+## Naming Convention
 
-Publishing
-Read how to publish modules.
+`{Type}`\_`{Language}`\_`{Code}`\_`{Version}`
 
-Modules
-Bibles
+## Publishing
 
-Commentaries
+Read how to [publish modules](./PUBLISH.md).
 
-Dictionaries
+## Modules
 
-Books
+### Bibles
+
+### Commentaries
+
+### Dictionaries
+
+### Books
